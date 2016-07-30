@@ -1,2 +1,4 @@
 # hello-word
-my first repositoty
+my first repositoty  
+
+repositoty should be repository!
